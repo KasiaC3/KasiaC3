@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KasiaC3
+- 👀 I’m interested in software testing.
+- 🌱 I’m currently learning SQL.
+- 💞️ I’m looking to collaborate on mobile and web apps testing.
+- 📫 Please, reach me via inkedin.com/in/kasia-chrzanowska3
