@@ -2,4 +2,4 @@
 - 👀 I’m interested in software testing.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on mobile and web apps testing.
-- 📫 Please, reach me via inkedin.com/in/kasia-chrzanowska3
+- 📫 Please, reach me via linkedin.com/in/kasia-chrzanowska3
